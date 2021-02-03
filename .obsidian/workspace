@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "4ac01b2db1efd31f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7fb220c89a1e5b1",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "investing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03ad8d50df928515",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2813cdcd5b70752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b11d6e4f3397ee7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "93088ba0ba5c74dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2ebb9be95e31757",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2fffbdf8b6cdaa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6cffa1b8c9898a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "investing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
